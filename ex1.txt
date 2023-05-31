@@ -1,0 +1,159 @@
+544: 📍 Positano, Italy
+543: 📍Haoyang Lake Wetland Park,China
+541: 📍 Shangri La, Dubai, OAE
+540: 📍 Black Hawk, Colorado
+539: 📍 Tuscany, Italy
+537: 📍 Catskills, New York
+536: 📍 Telluride, Colorado
+535: 📍 Positano, Italy
+533: 📍 Nazaré, Portugal
+532: 📍 Belmond La Residencia, Italy
+531: 📍 Chalet Al Foss Alp Resort, Italy
+530: 📍 Brooklyn, New York, USA
+528: 📍 Cappadocia, Turkey
+527: 📍 Atrani, Italy
+526: 📍 Trolltunga, Norway
+525: 📍 Kuala Lumpur, Malaysia
+524: 📍 Colosseum, Rome, Italy
+523: 📍Stryn, Norway
+521: 📍 Excelsior Dolomites Resort, Italy
+520: 📍 The Empire State Building, New York
+519: 📍 White Pocket, Arizona, USA
+511: 📍 Hilton Moorea, French Polynesia
+510: 📍 Bali, Indonesia
+509: 📍 Faroe Islands
+507: 📍 Istanbul, Turkey
+506: 📍 Kurtatinsky Gorge, North Ossetia
+505: 📍 Four Seasons Resort, Maldives
+504: 📍 Calilo, Papas Beach, Greece
+503: 📍Griessee, Switzerland
+502: 📍 Finca Austria Nosara, Costa Rica
+494: 📍 Positano, Italy
+493: 📍 Hjelle, Norway
+491: 📍 Downpatrick Head, Ireland
+490: 📍 Kolsai, Kazakhstan
+489: 📍 Santre Dolomythic Home, Italy
+487: 📍 Dragon Eye, Croatia
+486: 📍 Villa Làrio, Como, Italy
+475: 📍Edinburgh, Scotland
+473: 📍 Anse Source d’Argent, Seychelles
+472: 📍 Cairo, Egypt
+471: 📍Saipan, Northern Mariana Island
+460: 📍 Preikestolen, Norway
+459: 📍Chengdu, China
+457: 📍Fronalpstock, Switzerland
+456: 📍 Segla, Norway
+455: 📍El Minya, Egypt
+453: 📍 California, USA
+452: 📍Tulum, Mexico
+451: 📍 Senja, Norway
+445: 📍 Barcelona, Spain
+444: 📍 Lünersee, Vorarlberg, Austria
+443: 📍 Switzerland
+442: 📍 Northern Mariana Island
+441: 📍 Senja, Norway
+439: 📍 Iceland
+438: 📍 Camino de las Altas Cumbres
+437: 📍 Roggenburg Abbey, Germany
+436: 📍Tunnel Falls, Oregon
+435: 📍 Amsterdam, Netherlands
+433: 📍 Positano, Italy
+432: 📍 Circus Lane, Scotland
+430: 📍 Alps, Switzerland
+429: 📍 St. Patrick's Cathedral, New York
+428: 📍 The Cordillera Blanca, Peru
+427: 📍 Jungfrau Region, Switzerland
+425: 📍 Hormoz, Iran
+424: 📍 Port Royal Villas&Spa, Rhodes
+422: 📍 Lake Thun, Switzerland
+421: 📍Brienzersee, Switzerland
+419: 📍 Iceland
+418: 📍 Northern Mariana Island
+417: 📍 New York, USA
+416: 📍 Mentawai Island, Indonesia
+414: 📍 Veluwemeer Aquaduct, Amsterdam
+413: 📍 Positano, Italy
+412: 📍 Merzouga, Sahara Desert
+411: 📍 Tokyo, Japan
+410: 📍 Alps, Switzerland
+409: 📍Querceto Di Castellina, Tuscany, Italy
+408: 📍 Lofoten, Norway
+406: 📍 Volcán de Fuego, Guatemala
+405: 📍Kalsoy Island, Faroe Islands
+403: 📍 Ios Island, Greece
+395: 📍 Grill Bar, Shanghai, China
+394: 📍 La Casa De La Playa, Cancun, Mexico
+393: 📍 Lysebotn, Norway
+391: 📍 Eco Six Resort, Bali, Indonesia
+390: 📍 Plaza Athenee Hotel, Paris, France
+389: 📍 Shallalat Al Zarka, Lebanon
+388: 📍 Hauptstrasse, Brienz, Switzerland
+380: 📍 Portofino, Italy
+379: 📍 Riffelberg, Zermatt, Switzerland
+378: 📍 LUX South Ari Atoll, Maldives
+376: 📍 Nusa Penida, Indonesia
+375: 📍 Tyre, Lebanon
+374: 📍 Aksu Canyon, Kazakhstan
+373: 📍 Marina Bay Sands, Singapore
+371: 📍 Jolstraholmen Camping, Norway
+370: 📍 Vieste, Italy
+369: 📍 Aqua Dome Hotel, Austria
+368: 📍 St. Regis, Maldives
+367: 📍 New York, USA
+365: 📍 Bangioc Waterfall, Vietnam
+364: 📍 Hotel Eden, Rome, Italy
+363: 📍Alpstein Area, Switzerland
+362: 📍 Wyndham Alltra, Cancun, Mexico
+361: 📍Castello di Casole, Tuscany, Italy
+359: 📍 Villa Treville, Positano, Italy
+358: 📍 Dubai, OAE
+357: 📍 Gelmerbahn, Switzerland
+356: 📍 Four Seasons, Bora Bora
+354: 📍 Pula Bungalow Hotel, Rize, Turkey
+353: 📍Villa del Balbianello, Lake Como, Italy
+352: 📍 Scarlet Hotel, Cornwall
+351: 📍 Istanbul, Turkey
+350: 📍 Le Sirenuse, Positano, Italy
+348: 📍 Tuscany, Italy
+347: 📍 The Cotswolds, England
+346: 📍 Lake Baikal, Russia
+344: 📍 Sequoia National Park, USA
+343: 📍 Gjogv Faroe Islands
+342: 📍 Switzerland
+340: 📍 Melbourne, Australia
+339: 📍Daegu, South Korea
+338: 📍 Taiton Panuwat, Thailand
+335: 📍Kunfunadhoo Island, Baa Atoll, Maldives
+334: 📍Zeewolde, Netherlands
+333: 📍 Lake Como, Italy
+332: 📍Oeschinensee, Switzerland
+331: 📍Covão dos Conchos, Portugal
+330: 📍  The Wave Hike, Arizona
+329: 📍 Amsterdam, Netherlands
+328: 📍 ArtVillas, Costa Rica
+327: 📍 Hamilton Island, Australia
+326: 📍 Santorini, Greece
+325: 📍 Geiranger, Norway
+324: 📍 Rayavadee Resort Krabi, Thailand
+323: 📍 Santara-Madeira
+322: 📍 Tulum, Mexico
+321: 📍 Cairo, Egypt
+320: 📍 Yokohama, Japan
+319: 📍 Positano, Italy
+318: 📍 Trolltunga, Norway
+317: 📍 New Zealand
+315: 📍 M-MIX Electric Sound Grill Bar, China
+314: 📍 Phi Phi Islands, Thailand
+312: 📍 Alps, Switzerland
+311: 📍 Pulled Rock Village, Chongqing, China
+310: 📍 Bellavista Suites, Monopoli, Italy
+309: 📍 Kenya, Africa
+308: 📍 Eteka Slow Beach Hotel, Colombia
+307: 📍 Amalfi Coast, Italy
+306: 📍 For Seasons Resort Anguiila
+305: 📍 NIHI, Indonesia
+304: 📍 Vestmannaeyjar, Iceland
+303: 📍 Private Jet Villa, Indonesia
+302: 📍 New King Abdulaziz Airport Phase
+301: 📍 Bulgari Resort, Bali, Indonesia
+300: 📍 Grindelwald, Switzerland
